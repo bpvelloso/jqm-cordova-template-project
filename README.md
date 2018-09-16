@@ -24,10 +24,10 @@ Instructions
     cd yourapp
     
     # recommended minimal plugins
-    cordova plugin add org.apache.cordova.console
-    cordova plugin add org.apache.cordova.dialogs
-    cordova plugin add org.apache.cordova.splashscreen
-    cordova plugin add org.apache.cordova.statusbar
+    cordova plugin add cordova-plugin-console
+    cordova plugin add cordova-plugin-dialogs
+    cordova plugin add cordova-plugin-splashscreen
+    cordova plugin add cordova-plugin-statusbar
     
     # add platforms 
     cordova platform add ios
